@@ -1,6 +1,6 @@
 # Bheap
 
-A lightweight binary heap that greatly outperforms std::priority_queue and other commonly available heap implementations, optimized for pathfinding applications with simple enregistrables types as elements.
+A deceptively simple but carefully optimized lightweight binary heap that outperforms std::priority_queue and other commonly available heap implementations. Optimized for pathfinding applications with simple enregistrables types as elements.
 
 - - - -
 
